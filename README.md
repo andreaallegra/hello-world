@@ -1,4 +1,2 @@
-# hello-world
-
-this is my second file in version control 
+this repository contains a hello-world file
 
