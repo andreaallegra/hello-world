@@ -1,2 +1,2 @@
-this repository contains a hello-world file
+this repository contains two hello-world files
 
